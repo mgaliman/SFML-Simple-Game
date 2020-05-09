@@ -1,2 +1,8 @@
-# SFML-Simple-Game
- SPA_PROJ_001_CUSTOM_GAME
+Commands
+--------------------------------------------------------------------
+Move player -> W,S,A,D or arrow keys.
+Pause -> P
+Resume -> R
+Restart -> ENTER
+--------------------------------------------------------------------
+Enjoy!
